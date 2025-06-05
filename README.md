@@ -1,3 +1,4 @@
 # DemoRep
 Just a demo repository
-Owner- Dhruv Vaishnav
+<br>
+<p>Owner- Dhruv Vaishnav</p>
